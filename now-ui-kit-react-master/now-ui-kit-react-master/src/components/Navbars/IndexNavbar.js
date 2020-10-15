@@ -155,14 +155,14 @@ function IndexNavbar() {
                 <DropdownMenu>
                   <DropdownItem to="/index" tag={Link}>
                     <i className="now-ui-icons business_chart-pie-36 mr-1"></i>
-                    All components
+                    Зөндөө
                   </DropdownItem>
                   <DropdownItem
                     href=""
                     target="_blank"
                   >
                     <i className="now-ui-icons design_bullet-list-67 mr-1"></i>
-                    Documentation
+                    Сонирхотой
                   </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>
